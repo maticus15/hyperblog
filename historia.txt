@@ -1,6 +1,5 @@
 esta es un documento
-esto es una prueba de GIT y GITHub
+esto es una prueba de GIT
 
-y le agregamos otro cambios
+mañana sera otro dia
 
-otroas mas 
